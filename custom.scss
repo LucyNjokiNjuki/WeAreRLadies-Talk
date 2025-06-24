@@ -1,0 +1,60 @@
+/*-- scss:defaults --*/
+
+// fonts
+$font-family-sans-serif: "Palatino Linotype", "Book Antiqua", Palatino,
+  FreeSerif, serif !default;
+
+// colors
+$body-bg: lavenderblush !default;
+$body-color: #000 !default;
+$link-color: #27408B !default;
+$selection-bg: #26351c !default;
+$code-color: #5f5f5f;
+
+// headings
+$presentation-heading-font: "Palatino Linotype", "Book Antiqua", Palatino,
+  FreeSerif, serif !default;
+$presentation-heading-color: #383d3d !default;
+$presentation-h2-font-size: 1.2em;
+$presentation-h3-font-size: 1.0em;
+
+/*-- scss:rules --*/
+
+.reveal a {
+  line-height: 1.4em;
+}
+
+.quarto-title-author-name {
+  font-size: 40px;  /* Customize the author font size */
+  color: white !important;
+}
+
+.title {
+  font-size: 60px !important;
+  color: white !important;
+}
+
+.subtitle {
+  font-size: 25px !important;
+  color: white !important;
+}
+
+.date {
+  font-size: 35px !important;
+  color: white !important;
+}
+
+.reveal .slides {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.reveal p,
+.reveal li,
+.reveal ul,
+.reveal ol {
+  font-size: 1.0em;   // Adjust to your preference
+  line-height: 1.4em; // Improves readability
+}
