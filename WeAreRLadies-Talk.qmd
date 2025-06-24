@@ -1,0 +1,183 @@
+---
+title: "Connecting Through Code: My Week as a #WeAreRLadies Curator"
+author: "Njoki Njuki"
+date: "2025-06-18"
+format: 
+  revealjs:
+    title-block-banner: true
+    slide-number: c/t
+    width: 1000
+    height: 800
+    max-scale: 4
+    footer: "[WeAreRLadies-Talk-GitHub Repository](https://github.com/LucyNjokiNjuki/WeAreRLadies-Talk)"
+    theme: [default, custom.scss]
+    transition: slide
+    transition-speed: slow
+    embed-resources: true
+    auto-agenda:
+      bullets: numbered
+    background-transition: fade
+    highlight-style: zenburn
+    touch: false
+    controls: true
+    title-slide-attributes: 
+      data-background-color: "#551A8B"
+      data-background-size: contain
+      data-background-opacity: "0.5"
+    echo: true
+logo: Images/r-ladies_logo.jpeg
+editor: visual
+---
+
+![](Images/2025-05-05-njoki-njuki.pptx.jpg)
+
+------------------------------------------------------------------------
+
+## 👋🏿 Introduction
+
+-   Hi, I’m Njoki 💜\
+-   Data Analyst at the University of Oxford (HEOR team)\
+-   Biostatistics background, currently studying MSc in Statistics and Data Science (Hasselt University)\
+-   Passionate about R, community, and inclusive spaces
+
+------------------------------------------------------------------------
+
+## 💜 R-Ladies Nairobi
+
+-   Reintroducing the **R-Ladies Nairobi Chapter**
+-   Originally started in **2020** 🎉
+    -   Shout out to our founding organisers: *Faith Musili, Shel Kariuki & Maggie Wanjiru*
+-   Welcoming our new co-organisers: *Happiness Ndanu & Agnes Ndiragu*
+-   We're back and active!\
+    👉 Keep an eye on our [Meetup page](https://www.meetup.com/rladies-nairobi/) for upcoming events!
+
+------------------------------------------------------------------------
+
+## 🎯 Why I Curated #WeAreRLadies
+
+-   I wanted to share my journey and give back to a community that shaped me 💬
+-   Highlight diverse voices, experiences, and projects in R
+-   Encourage others to feel seen and inspired 💡
+
+------------------------------------------------------------------------
+
+## 🗓️ Preparing for the Week
+
+-   Planned themed posts for each day:
+    -   My journey into R 📚
+    -   What I do + side projects 💼
+    -   Favorite R packages 📦
+    -   Lessons from the community (rainbowR, ShinyConf) 🌈
+-   Used Quarto to draft posts and organised content visually
+
+------------------------------------------------------------------------
+
+## 🧵 Daily Threads & Engagement
+
+-   Shared how I use R in my work: data wrangling, analysis, and creating dashboards
+-   Discussed packages like `{tidylog}`, `{quarto}`, `{golem}`, and `{ellmer}`
+-   Asked the community to share their favorite R packages, projects, and workflows
+-   Loved seeing how others use R creatively! 💬
+
+------------------------------------------------------------------------
+
+## ✨ Highlights from the Week
+
+-   Conversations about using R for everyday tasks like menu planning or gift selection 🎁
+-   Showcased my journey from student to analyst to community builder
+-   Talked about Shiny dashboards for LGBTQ+ film data 📽️
+
+------------------------------------------------------------------------
+
+## 🗺️ TidyTuesday: First Treemap
+
+::: {style="font-size: 60%;"}
+-   Participated in [**#TidyTuesday Week 18**](https://github.com/LucyNjokiNjuki/Tidy_Tuesday/blob/master/2025/SRC/wk_18_Science_Foundation_Grant.R) — NSF Grant Terminations under the Trump Administration
+-   Created my **first-ever treemap** using `{treemapify}` 📦
+-   Visualised grant terminations by NSF directorate and division
+-   Opened up a great conversation on improving clarity and accessibility in data viz
+-   A fun and practical way to level up my R & ggplot skills!
+:::
+
+![TidyTuesday Treemap](Images/tidytuesday_wk_18.png)
+
+------------------------------------------------------------------------
+
+## 🌈 Community Spotlights
+
+-   rainbowR: a warm, inclusive space for LGBTQ+ folks in R 🏳️‍🌈
+-   Monthly meetups, book clubs, and buddy system
+-   I’ve made amazing friends — we talk R and life ☕
+-   Data meets identity in powerful ways 💡
+
+------------------------------------------------------------------------
+
+## 📚 Book & Resource Shoutouts
+
+-   Been enjoying: [*Data Management in R for Social Scientists*](https://datamgmtinedresearch.com/)\
+-   Learned about standardized project structures and reproducibility tips
+-   Encouraged others to explore style guides + tidy workflows
+
+------------------------------------------------------------------------
+
+## 🛠️ `{tidylog}` – your R co-pilot!
+
+With `{tidylog}`, you get friendly messages that help track changes at each step of your data pipeline — great for debugging and learning!
+
+![](Images/tidylog_post.png)
+
+------------------------------------------------------------------------
+
+## 🔥 Learning Moments
+
+-   ShinyConf 2025: Carson Sievert’s talk on `{ellmer}` and LLM-powered apps
+-   Learned how to build a chatbot UI in Shiny 🤖
+-   Rewatched the talk to really grasp it — so worth it!
+
+------------------------------------------------------------------------
+
+## 💬 Conversations That Stood Out
+
+-   Replies from people who also started with R in uni or self-taught
+-   Shared side projects: automating reports, building Shiny dashboards, analyzing personal data
+-   It’s amazing how diverse our use cases are
+
+------------------------------------------------------------------------
+
+## 🎭 Community Beyond Code
+
+::: {style="font-size: 70%;"}
+-   Not every post had to be tech-heavy — I loved exploring lighter ways to connect!
+
+-   Shared a "3 Things About Me" card 🧠💜
+
+    1️⃣ Loves dashboards & shiny apps
+
+    2️⃣ Romance novels + stats = yes please!
+
+    3️⃣ Used R to choose gifts for my partner 🎁
+
+-   Sparked fun replies and helped humanize the curation experience
+
+-   R is also about **joy, creativity, and connection**
+:::
+
+![3 Things Card](Images/3Things_card.png)
+
+------------------------------------------------------------------------
+
+## 💡 Reflections
+
+-   Curating helped me see how far I’ve come 📈
+-   Gave me confidence to share my voice
+-   Started new conversations + connected with people I wouldn’t have met otherwise
+-   Writing threads helped clarify my own thinking ✍️
+
+------------------------------------------------------------------------
+
+## 🫶🏿 Gratitude & Takeaways
+
+-   Thank you R-Ladies for the opportunity
+-   We grow by showing up, sharing, and supporting each other
+-   If you're thinking of curating – go for it!
+-   The R community is what we make it 💜
