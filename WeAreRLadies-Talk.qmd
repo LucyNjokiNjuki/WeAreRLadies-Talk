@@ -76,7 +76,7 @@ editor: visual
 
 -   Shared how I use R in my work: data wrangling, analysis, and creating dashboards
 -   Discussed packages like `{tidylog}`, `{quarto}`, `{golem}`, and `{ellmer}`
--   Asked the community to share their favorite R packages, projects, and workflows
+-   Asked the community to share their favourite R packages, projects, and workflows
 -   Loved seeing how others use R creatively! 💬
 
 ------------------------------------------------------------------------
@@ -106,8 +106,8 @@ editor: visual
 ## 🌈 Community Spotlights
 
 -   rainbowR: a warm, inclusive space for LGBTQ+ folks in R 🏳️‍🌈
--   Monthly meetups, book clubs, and buddy system
--   I’ve made amazing friends — we talk R and life ☕
+-   [Monthly meetups](https://rainbowr.org/meetups), [book clubs](https://rainbowr.org/book-club) (where data meets queer literature), and [buddy system](https://rainbowr.org/buddies.html)
+-   I've made amazing friends — we talk R and life ☕
 -   Data meets identity in powerful ways 💡
 
 ------------------------------------------------------------------------
@@ -115,7 +115,7 @@ editor: visual
 ## 📚 Book & Resource Shoutouts
 
 -   Been enjoying: [*Data Management in R for Social Scientists*](https://datamgmtinedresearch.com/)\
--   Learned about standardized project structures and reproducibility tips
+-   Learned about standardised project structures and reproducibility tips
 -   Encouraged others to explore style guides + tidy workflows
 
 ------------------------------------------------------------------------
@@ -130,7 +130,7 @@ With `{tidylog}`, you get friendly messages that help track changes at each step
 
 ## 🔥 Learning Moments
 
--   ShinyConf 2025: Carson Sievert’s talk on `{ellmer}` and LLM-powered apps
+-   ShinyConf 2025: [Carson Sievert’s talk on `{ellmer}` and LLM-powered apps](https://docs.google.com/presentation/d/10qFv7NbBVF-0gTTlZhJmdjKNTp_jN6W29yHQYWj7faU/edit?slide=id.g3495b0e6ebb_0_11#slide=id.g3495b0e6ebb_0_11)
 -   Learned how to build a chatbot UI in Shiny 🤖
 -   Rewatched the talk to really grasp it — so worth it!
 
@@ -139,8 +139,8 @@ With `{tidylog}`, you get friendly messages that help track changes at each step
 ## 💬 Conversations That Stood Out
 
 -   Replies from people who also started with R in uni or self-taught
--   Shared side projects: automating reports, building Shiny dashboards, analyzing personal data
--   It’s amazing how diverse our use cases are
+-   Shared side projects: automating reports, building Shiny dashboards, analysing personal data
+-   It's amazing how diverse our use cases are
 
 ------------------------------------------------------------------------
 
@@ -168,16 +168,16 @@ With `{tidylog}`, you get friendly messages that help track changes at each step
 
 ## 💡 Reflections
 
--   Curating helped me see how far I’ve come 📈
+-   Curating helped me see how far I've come 📈
 -   Gave me confidence to share my voice
--   Started new conversations + connected with people I wouldn’t have met otherwise
+-   Started new conversations + connected with people I wouldn't have met otherwise
 -   Writing threads helped clarify my own thinking ✍️
 
 ------------------------------------------------------------------------
 
 ## 🫶🏿 Gratitude & Takeaways
 
--   Thank you R-Ladies for the opportunity
+-   Thank you, We Are R-Ladies team, for the opportunity
 -   We grow by showing up, sharing, and supporting each other
 -   If you're thinking of curating – go for it!
 -   The R community is what we make it 💜
